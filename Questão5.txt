@@ -1,0 +1,16 @@
+ligo o interruptor 1 e deixo ligado por 30min para a lampada esquentar
+ligo o interruptor 2
+desligo o interruptor 1
+(vou até uma das salas)
+se a lampada estiver ligada, pertence ao interruptor 2
+se a lampada estiver apagada só q quente, pertence ao interruptor 1
+se a lamapada tiver apagada e fria, pertence ao interruptor 3
+//depois disso já descobri o estado de uma
+(volto para os interruptores)
+ligo o interruptor 1
+desligo o interruptor 2(tendo ele já estando ligado por 30min para esquentar)
+(vou até outra sala, diferente da primeira)
+se a lampada estiver ligada, pertence ao interruptor 1
+se estiver desligada, só que quente, pertence ao interruptor 2
+se a lampada estiver desligada e fria, pertence ao interruptor 3
+
